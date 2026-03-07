@@ -1,0 +1,33 @@
+# 🚀 MMU Foundation: My Quest from Code-Learner to AI Interpretability Researcher
+### *"Building the skills today for the trillion-dollar vision of tomorrow"*
+## 🌟 The Mission
+At 45, with a family of five, I'm pursuing a Master's in Research in Mechanistic Interpretability at MMU Malaysia. 
+My goal is audacious: build a startup that "reveals the AI black box" and pursue a PhD at Stanford/NUS. 
+This repo documents the daily grind—the coding foundation, the paper readings, the small victories and setbacks—that will make that vision possible.
+## 🗺️ The 8-Week Foundation Sprint (Pre-Malaysia)
+Following a mentor-guided plan to go from Python basics to running real interpretability code before I land.
+
+- **Weeks 1-2:** Python muscle memory + NumPy + PyTorch tensors
+- **Weeks 3-4:** First neural networks + Understanding Transformers
+- **Weeks 5-6:** Entering Mechanistic Interpretability (TransformerLens + first paper replication)
+- **Weeks 7-8:** Consolidation + Building a tiny portfolio piece
+
+[Detailed 8-Week Plan Link – *you can link to your '1st Week Plan' file or a new detailed doc*]
+## 📓 Daily Voyage Log
+Tracking the small, daily steps that build the mountain.
+
+| Week | Focus | Status | Link to Notes |
+| :--- | :--- | :--- | :--- |
+| Week 1 | Environment Setup & Python Refresher | 🟡 In Progress | [Week 1 Log](./1st%20Week%20Plan) |
+| Week 2 | PyTorch Deep Dive | ⬜ Not Started | - |
+| ... | ... | ... | ... |
+
+*(Use ✅ for done, 🟡 for in progress, ⬜ for not started)*
+## 📚 Learning Arsenal
+- [PyTorch Official Tutorials](https://pytorch.org/tutorials/) - Starting here Week 2
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Weekend reading
+- [TransformerLens Demo](https://neelnanda-io.github.io/TransformerLens/generated/demo.html) - The goal for Week 5
+## 🔥 The Commitment
+One commit a day. No exceptions. Even if it's just fixing a typo or adding a note, this repo is my witness.
+
+*Started: March 8, 2026. Location: Dhaka → Kuala Lumpur (soon).*
