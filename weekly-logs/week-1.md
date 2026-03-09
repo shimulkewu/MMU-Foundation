@@ -8,12 +8,12 @@
 ## 🎯 Goals for This Week
 
 - [x] Create GitHub repo and structure
-- [ ] Install Python 3.10/3.11
-- [ ] Install VS Code + extensions
-- [ ] Configure Git
-- [ ] Complete Python refresher (basics)
-- [ ] Write 5 small Python practice programs
-- [ ] Commit something every single day
+- [x] Install Python 3.10/3.11
+- [x] Install VS Code + extensions
+- [x] Configure Git
+- [x] Complete Python refresher (basics)
+- [x] Write 5 small Python practice programs
+- [x] Commit something every single day
 
 ---
 
@@ -26,8 +26,8 @@
 - **Feeling:** Relieved and excited. The first hurdle is crossed.
 
 ### Day 2 (March 9) - [Fill in tomorrow]
-- 
-- 
+- My first tensor 
+- My first problem solved
 - **Reflection:**
 
 ### Day 3 (March 10) - [Fill in]
