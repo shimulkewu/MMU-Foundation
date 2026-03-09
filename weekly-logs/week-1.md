@@ -25,7 +25,7 @@
 - Learned how to move files on GitHub
 - **Feeling:** Relieved and excited. The first hurdle is crossed.
 
-### Day 2 (March 9) - [Fill in tomorrow]
+### Day 2 (March 9) - Environment setup
 - My first tensor 
 - My first problem solved
 - **Reflection:**
