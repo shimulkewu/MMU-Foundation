@@ -28,10 +28,12 @@
 ### Day 2 (March 9) - Environment setup
 - My first tensor 
 - My first problem solved
+- Stuck with my old MacBook 12
+- Finally solved and ran the code..yes..
 - **Reflection:**
 
-### Day 3 (March 10) - [Fill in]
-- 
+### Day 3 (March 10) - 3 Python small programs
+- Number guessing game
 - 
 - **Reflection:**
 
