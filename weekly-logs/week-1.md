@@ -34,7 +34,8 @@
 
 ### Day 3 (March 10) - 3 Python small programs
 - Number guessing game
-- 
+- Grading systems
+- Restaurant management
 - **Reflection:**
 
 ### Day 4 (March 11) - [Fill in]
