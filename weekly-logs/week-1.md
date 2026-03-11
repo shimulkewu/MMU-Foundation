@@ -30,19 +30,20 @@
 - My first problem solved
 - Stuck with my old MacBook 12
 - Finally solved and ran the code..yes..
-- **Reflection:**
+- **Reflection:** HORRIBLE DAY! -V- it's a Victory
 
 ### Day 3 (March 10) - 3 Python small programs
 - Number guessing game
 - Grading systems
 - Restaurant management
-- **Reflection:**
+- **Reflection:** Logically play--stuck//tryied again//again stuck...finally=[result]
 
 ### Day 4 (March 11) - Numpy basics DONE..
 - Installed Matplotlib
 - Installed Seaborn
-- 
-- **Reflection:**
+- SIMPLE LUDO GAME
+- Python basics DONE..
+- **Reflection:** One sussessful day--
 
 ### Day 5 (March 12) - [Fill in]
 - 
