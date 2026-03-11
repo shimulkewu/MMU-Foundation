@@ -38,8 +38,9 @@
 - Restaurant management
 - **Reflection:**
 
-### Day 4 (March 11) - [Fill in]
-- 
+### Day 4 (March 11) - Numpy basics DONE..
+- Installed Matplotlib
+- Installed Seaborn
 - 
 - **Reflection:**
 
