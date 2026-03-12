@@ -45,9 +45,11 @@
 - Python basics DONE..
 - **Reflection:** One sussessful day--
 
-### Day 5 (March 12) - [Fill in]
-- 
-- 
+### Day 5 (March 12) - Completed PANDAS>>>
+- Data read
+- Data analysis
+- Data sorting
+- Data cleaning
 - **Reflection:**
 
 ### Day 6 (March 13) - [Fill in]
