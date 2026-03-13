@@ -51,11 +51,16 @@
 - Data sorting
 - Data cleaning
 - Data filling
-- **Reflection:**
+- **Reflection:** I just love it.
 
-### Day 6 (March 13) - [Fill in]
-- 
-- 
+### Day 6 (March 13) - Python project-[Login..]
+- Import JSON (for database storage)
+- Load users from database
+- Save users to the database
+- Automatic user ID generator
+- Registration system
+- Login system (with 3 attempts)
+- Main menu system
 - **Reflection:**
 
 ### Day 7 (March 14) - Week 1 Review
