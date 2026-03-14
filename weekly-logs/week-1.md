@@ -55,7 +55,7 @@
 
 ### Day 6 (March 13) - Python project-[Login..]
 - Import JSON (for database storage)
-- Load users from database
+- Load users from the database
 - Save users to the database
 - Automatic user ID generator
 - Registration system
@@ -64,7 +64,8 @@
 - **Reflection:**
 
 ### Day 7 (March 14) - Week 1 Review
-- 
+- Matplotlib full completed
+- Working on a chatbot project in Python
 - 
 - **Reflection:**
 
