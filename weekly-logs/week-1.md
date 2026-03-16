@@ -66,7 +66,8 @@
 ### Day 7 (March 14) - Week 1 Review
 - Matplotlib full completed
 - Working on a chatbot project in Python
-- 
+- Download and run React
+- Revision-Python, JS, 
 - **Reflection:**
 
 ---
