@@ -15,10 +15,6 @@ Day 8 (March 15) - Environment Setup for ML and Pytorch
 
  ✅ Environment Setup Completed
 
- ✅ Environment Setup Completed:
-
- ✅ Environment Setup Completed:
-
 python -m venv ml_env
 source ml_env/bin/activate  # (Mac/Linux)
 Installed core ML libraries:
