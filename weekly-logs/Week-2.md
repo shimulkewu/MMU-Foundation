@@ -5,31 +5,19 @@ Status: 🟡 In Progress
 Dates: March 8 - March 14, 2026 Status: 🟡 In Progress
 
 🎯 Week 2 Goals
+ PyTorch Baby Steps
+ Focus: tensor creation, operations, moving to GPU (if you have one), numpy bridge 
+ Practice: Create tensors of different shapes, do math operations, and reshape
+ Machine learning fundamentals
 
-    Set up complete Python data science environment
+📅 Daily Log
+Day 8 (March 15) - Environment Setup for ML and Pytorch
 
-    Master Object-Oriented Programming (OOP) in Python
+ ✅ Environment Setup Completed
 
-    Deep dive into NumPy for neural network math
+ ✅ Environment Setup Completed:
 
-    Learn data preprocessing with Pandas
-
-    Create advanced visualizations with Matplotlib/Seaborn
-
-    Install and test PyTorch with GPU support (if available)
-
-    Build first neural network from scratch
-
-    Document everything with clear reflections
-
-    📅 Daily Log
-Day 8 (March 15) - Environment Setup & OOP Introduction
-
-✅ Environment Setup Completed:
-
-    Updated Python to latest version (3.11+)
-
-    Created isolated virtual environment for ML projects
+ ✅ Environment Setup Completed:
 
 python -m venv ml_env
 source ml_env/bin/activate  # (Mac/Linux)
